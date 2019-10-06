@@ -1,1 +1,1 @@
-Boilerplat eslin for react hooks
+Boilerplat eslint config for react hooks
